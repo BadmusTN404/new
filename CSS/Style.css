@@ -37,7 +37,7 @@ nav{
     width: 100%;
     position: fixed;
     top: 0;
-    background-color: #ffff;
+    background-color: #f6fafa;
     z-index: 2000;
     transition:transform 0.3s ease;
 }
