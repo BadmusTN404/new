@@ -246,13 +246,9 @@ nav{
 }
 .topbar_container{
     height: 50px;
-    max-width: 100%;
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    flex-shrink: 0;
-    flex-basis: auto;
-    flex-grow: 0;
     padding: 10px;
     margin-left: 65px;
     margin-right: 50px;
